@@ -33,7 +33,7 @@
         <!-- Grid column -->
       </div>
       <!-- Grid row -->
-    </div>
+    </div> 
     <!-- Footer Text -->
 
     <!-- Copyright -->
